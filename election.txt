@@ -1,0 +1,1 @@
+[{"electionID": "JEC1", "name": "JEC President", "candidates": [{"candidateID": "101", "name": "Nice Caillie", "major": "Computer Science", "votesCast": 2}, {"candidateID": "102", "name": "Maxine Brenya", "major": "Business Administration", "votesCast": 0}], "start_date": "27-03-23 12:00", "end_date": "28-03-23 18:00"}]
